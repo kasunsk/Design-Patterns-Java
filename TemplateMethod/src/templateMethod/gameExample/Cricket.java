@@ -1,4 +1,4 @@
-package templateMethod;
+package templateMethod.gameExample;
 
 /**
  * Created by kasun on 3/13/17.
